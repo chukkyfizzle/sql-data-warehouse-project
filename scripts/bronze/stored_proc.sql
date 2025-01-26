@@ -1,3 +1,11 @@
+/* 
+DDL Script to Create Bronze Tables.
+
+Script puroose: 
+Create table in the bronze schema
+
+*/
+
 Create or Alter procedure bronze.load_bronze as
 
 Begin
